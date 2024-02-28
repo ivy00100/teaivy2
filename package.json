@@ -1,14 +1,6 @@
 {
   "name": "eelsivy2",
   "version": "8.1.1",
-  "description": "PostCSS loader for webpack",
-  "license": "MIT",
-  "author": "Andrey Sitnik <andrey@sitnik.ru>",
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/webpack"
-  },
-  "mai  n": "dist/cjs.js",
   "engines": {
     "node": ">= 18.12.0"
   },
